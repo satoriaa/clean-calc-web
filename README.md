@@ -1,10 +1,12 @@
-# Clean & Modern Web Calculator
+# 🧮 Clean & Modern Web Calculator
 
 A sleek, fully functional web-based calculator built with a focus on clean UI/UX and smooth user interactions. This project demonstrates the implementation of **CSS Grid**, **Flexbox**, and **Vanilla JavaScript** logic.
 
-![Calculator Preview](https://raw.githubusercontent.com/satoriaa/clean-calc-web/main/preview.png) *(Opsional: Ganti dengan link screenshot kamu nanti)*
+## 🚀 Live Demo
 
-## Features
+Check out the live version here: [https://clean-calc-web.vercel.app/](https://clean-calc-web.vercel.app/)
+
+## ✨ Features
 
 * **Modern Design**: Utilizes a dark-themed UI with high-contrast buttons.
 * **Interactive UI**: Smooth hover effects and button-press animations (`transform: scale`).
@@ -12,13 +14,14 @@ A sleek, fully functional web-based calculator built with a focus on clean UI/UX
 * **Responsive Layout**: Built with CSS Grid for a pixel-perfect button arrangement.
 * **Clear Functions**: Supports "Clear" (C), "Clear Entry" (CE), and "History/Reset" (H) functionalities.
 
-## Built With
+## 🛠️ Built With
 
 * **HTML5**: Semantic structure.
 * **CSS3**: Custom properties, Grid Layout, and Flexbox for centering.
 * **JavaScript (ES6+)**: Event listeners and arithmetic logic.
+* **Vercel**: For fast and reliable deployment.
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 .
